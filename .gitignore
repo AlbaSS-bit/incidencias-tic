@@ -1,0 +1,29 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Entornos y secretos
+.env
+.env.local
+
+# IDEs
+.vscode/
+
+# Logs
+*.log
+
+# Compiled output
+/dist
+/build
+
+# OS files
+*.exe
+*.dll
+
+# Capturas temporales
+.resized

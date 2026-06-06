@@ -1,7 +1,7 @@
 # Incidencias TIC (Cloud)
 
 ## Enlaces
-- Repo: 
+- Repo: [(pega aquí)](https://github.com/AlbaSS-bit/incidencias-tic.git)
 - GitHub Pages: [(pega aquí)](https://albass-bit.github.io/)
 
 ## Evidencias (capturas)
@@ -43,7 +43,8 @@ para que tu documento gane accesibilidad. El ejemplo supone que las imágenes la
 
 - Permisos (RLS + policies): En cuanto a los permisos, hemos añadido politicas de insert, de select y de update, de forma que se apliquen a la tabla incidencias. Una vez hecho esto, tan solo el propietario del proyecto puede insertar, seleccionar o actualizar cualquier campo de la tabla.
 
-- Conexión desde la app (URL + ANON KEY, supabase-js):
+- Conexión desde la app (URL + ANON KEY, supabase-js): la URL es la siguiente: gpxdgperbfgcdfwwiaed
+Esta sería la ANON KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdweGRncGVyYmZnY2Rmd3dpYWVkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgxNzY2NzAsImV4cCI6MjA5Mzc1MjY3MH0.aZwaXKg3Dwz7NnqR0tF3T6G50gXG5N8yzAjBjsfNUe4
 
 ## CE.g — Importancia del cloud (beneficios)
 - Productividad: Como estamos usando Supabase para realizar dicho proyecto, esto nos proporciona un backend instantáneo que no requiere la previa programación de la infraestructura, puesto que Supabase nos genera por sí mismo la base de datos, el sistema de autenticación y el almacenamiento de las APIs.

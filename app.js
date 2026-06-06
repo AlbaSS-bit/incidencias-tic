@@ -14,8 +14,8 @@
 
 // ======================
 // TODO 1: pega aquí tus credenciales (Supabase → Project Settings → API)
-const SUPABASE_URL = "PON_AQUI_TU_SUPABASE_URL";
-const SUPABASE_ANON_KEY = "PON_AQUI_TU_SUPABASE_ANON_KEY";
+const SUPABASE_URL = "gpxdgperbfgcdfwwiaed";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdweGRncGVyYmZnY2Rmd3dpYWVkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgxNzY2NzAsImV4cCI6MjA5Mzc1MjY3MH0.aZwaXKg3Dwz7NnqR0tF3T6G50gXG5N8yzAjBjsfNUe4";
 // ======================
 
 // Creamos el cliente de Supabase (supabase-js viene cargado por CDN en index.html)
